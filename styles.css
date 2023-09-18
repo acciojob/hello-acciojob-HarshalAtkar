@@ -1,2 +1,9 @@
-
-/* Your CSS Code here. */
+#job{
+	height:150px;
+	background-color:black;
+}
+p{
+	color:white;
+	margin-left:32px;
+	padding:10px;
+}
